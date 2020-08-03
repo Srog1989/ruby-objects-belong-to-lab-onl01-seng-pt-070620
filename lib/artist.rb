@@ -11,5 +11,9 @@ class Artist
     @name = name 
   end
   
+  class Post
+  
+  end
+  
   
 end
